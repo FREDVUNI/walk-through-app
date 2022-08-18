@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sacco</string>
+    <string name="title1">Welcome</string>
+    <string name="title2">Improve Your Skills</string>
+    <string name="title3">Grow Your Audience</string>
+    <string name="description">Lorem start Lorem start Lorem start Lorem start Lorem start
+    Lorem start.Lorem start. start Lorem start Lorem start Lorem start Lorem</string>
+
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="done">DONE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
